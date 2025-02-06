@@ -1,6 +1,6 @@
 ### Design and Development of Spherical Robot
 
-![Robot Image](./WhatsApp%20Image%202025-02-06%20at%2016.40.54_ae0891d3.jpg)
+![Robot Image](SPR_IRL.jpg)
 
 ---
 
