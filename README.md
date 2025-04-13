@@ -1,4 +1,4 @@
-### Design and Development of Spherical Robot
+### Design & Development of Spherical Robot
 
 ![Robot Image](SPR_IRL.jpg)
 
